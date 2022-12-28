@@ -1,7 +1,8 @@
 <img  width="100%" src="https://i.postimg.cc/2Sf9SbnY/github-header-image.png"/>
 <h1 align="center">Hi 👋, I'm Unnati Gupta</h1>
 <h3 align="center">Devops developer from India</h3>
-<img  align="right" width="180" height="150"src="https://i.postimg.cc/bvmyqjDx/Screenshot-20220730-230014-Whats-App-2.jpg"/>
+<img  align="right" width="180" height="150"src="![image](https://user-images.githubusercontent.com/66088802/209806324-9f0f1904-ae5c-4a4e-9d5a-e468515a10ed.png)
+"/>
 
 - 🌱 I’m currently learning **Ansible**
 
